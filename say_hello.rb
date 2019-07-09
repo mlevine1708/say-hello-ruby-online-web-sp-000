@@ -7,5 +7,3 @@ end
 say_hello ("Kent Beck")
 
 say_hello
-
-
